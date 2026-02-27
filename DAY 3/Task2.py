@@ -1,4 +1,5 @@
 try:
+    
     mark = float(input("Enter the student's mark: "))
 
     if 90 <= mark <= 100:
