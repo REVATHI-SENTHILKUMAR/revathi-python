@@ -23,7 +23,7 @@ person = ("Alice", 25, "Engineer")
 name, age, profession = person
 
 
-print(name)        # Output: Alice
+print(name)        # Output: revathi
 print(profession)  # Output: Engineer
 
 
