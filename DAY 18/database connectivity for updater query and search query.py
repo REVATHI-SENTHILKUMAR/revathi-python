@@ -44,5 +44,5 @@ def update_user_email(user_id, new_email):
 
     return rows_affected
 
-rows = update_user_email(1, "new@email.com")
+rows = update_user_email(1, "revathigeeetha20.com")
 print(f"Updated {rows} row(s)")
