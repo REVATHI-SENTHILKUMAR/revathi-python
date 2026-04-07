@@ -1,2 +1,0 @@
-# revathi-python
-hosting
